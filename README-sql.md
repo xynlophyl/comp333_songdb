@@ -3,7 +3,7 @@
 CREATE TABLE users (username VARCHAR(255) PRIMARY KEY, password varchar(255));
 
 INSERT INTO users(username, password) VALUES ("Amelia-Earhart", "Youaom139&yu7");
-INSERT INTO users(username, password) VALUES ("Otto", "StarW\rs2*");
+INSERT INTO users(username, password) VALUES ("Otto", "StarWars2*");
 
 
 ```
